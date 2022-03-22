@@ -1,4 +1,4 @@
-# meal_maxi
+# Meal App Flutter
 
 A new Flutter project.
 
