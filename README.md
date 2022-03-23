@@ -1,4 +1,4 @@
-# Meal App Flutter
+# Mealy, A Flutter App for food
 
 A new Flutter project.
 
